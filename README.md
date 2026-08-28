@@ -1,5 +1,5 @@
-<H3>Name : Surya.N</H3> Deepika.U
-<H3>REGISTER NO : 212225040442</H3> 212225040060
+<H3>Name : Surya.N</H3>
+<H3>REGISTER NO : 212225040442</H3> \
 <H3>EX. NO.6</H3>
 <H3>DATE: 28/08/2026</H3>
 <H1 ALIGN =CENTER>Heart attack prediction using MLP</H1>
